@@ -1,0 +1,23 @@
+newnext
+├── .git/
+├── .next/
+├── app/
+     └── layout.js
+     └── page.js
+     └── global.css
+     ├── about/
+          └── page.jsx
+     ├── product/
+          └── page.jsx
+├── node_modules/
+├── public/
+    └── favicon.ico
+    └── images/
+└── .gitignore
+└── next.config.js
+└── package-lock.json
+└── package.json
+└── postcss.config.js
+
+└── README.md
+└── tailwind.config.js
